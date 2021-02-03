@@ -31,4 +31,5 @@ static int classAmount(int gradeLevel)
         else if(gradeLevel == 12)
                 return 5;
   }
+  static string scheduleGenerator(String name, int grade, double gpa, bool advance)
 } 
